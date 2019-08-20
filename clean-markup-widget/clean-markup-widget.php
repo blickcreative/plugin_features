@@ -1,7 +1,7 @@
 <?php 
 
 /*
-Plugin Name: clean makrup widget 
+Plugin Name: clean markup widget 
 Description: Demonstrates how to cadda widget.
 Plugin URI:  https://plugin-planet.com/
 Author:      Jeff Starr
